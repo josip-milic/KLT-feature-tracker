@@ -20,7 +20,7 @@ Date: **15.01.2015.**<br>
 ####Elementary differential monitoring process is a motion analysis problem of certain features in a series of pictures. 
 ####Offsetting image is approximated by the Taylor development. In this development, the partial derivatives of image coordinates movements (or gradient image) occur, and because of this procedure is called differential.
 
-More information in the documentation (warning: written in Croatian): https://github.com/josip-milic/TAR-project-Tweet-classification/blob/master/paper/TAR_Project_2016_Supervised_tweet_classification_paper_v1.0.pdf
+More information in the documentation (warning: written in Croatian): https://github.com/josip-milic/KLT-feature-tracker/blob/master/Tehni%C4%8Dka%20dokumentacija/FER2_Projekt_Tehnicka_Dokumentacija_-_Elementarni_postupak_diferencijalnog_pracenja.pdf
 
 
 Programming languages and its packages used in this project (more information in the documentation, chapter 8):
