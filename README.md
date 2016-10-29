@@ -26,7 +26,7 @@ More information in the documentation (warning: written in Croatian): https://gi
 Programming languages and its packages used in this project (more information in the documentation, chapter 8):
 <ul>
 	<li>
-		Python 2.7 - Prototyping
+		Python 2.7 - Prototyping<br/>
 		Used external packages:
 		<ul>
 			<li>NumPy - N-dimensional arrays and linear algebra</li>
@@ -35,7 +35,7 @@ Programming languages and its packages used in this project (more information in
 		</ul>
 	</li>
 	<li>
-		C++ - Final program
+		C++ - Final program<br/>
 		Used external packages:
 		<ul>
 			<li>OpenCV - Computer vision methods (mostly for image/video import and export)</li>
