@@ -1,0 +1,8 @@
+(dp0
+(S'ploca_srednja'
+p1
+I12
+tp2
+S'103'
+p3
+s.
